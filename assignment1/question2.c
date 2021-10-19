@@ -4,25 +4,6 @@
 float Series(float coefficient, float variable, int power);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Function that generates the series of a*r^n
 float Series(float coefficient, float variable, int power)
 {

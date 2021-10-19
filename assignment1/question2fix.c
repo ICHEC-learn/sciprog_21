@@ -11,6 +11,10 @@ int main()
     float coefficient, variable, series, formula, difference;
     for(i = 1; i = 3; i++) // Loop the runs from 1 to 3
     {
+        if(i > 3)
+        {
+            break;
+        }
         switch(i) // Switch case for the three different values of n, a, r.
         {
             case 1:
@@ -41,10 +45,9 @@ float Series(float coefficient, float variable, int power)
 {
         int i = 0;
         float sum = 0;
-        while(i <= power)
+        for(i = 0; i = power; i++)
         {
                 sum += coefficient*pow(variable, i);
-                i += 1;
         }
         return(sum);
 }
