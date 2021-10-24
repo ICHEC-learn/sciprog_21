@@ -34,3 +34,4 @@ int main(void) {
          inum,fnum,binnum);
 
 }
+
