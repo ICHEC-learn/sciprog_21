@@ -42,7 +42,7 @@ int main(){
     printf("\n This is matrix A:\n\n");
     for(i = 0; i < n; i++){
         for(j = 0; j < p; j++){
-            printf("%3.0f", A[i][j]);
+            printf(" %3.0f ", A[i][j]);
         }
         printf("\n");
     }
@@ -50,7 +50,7 @@ int main(){
     printf("\n This is matrix B:\n\n");
     for(i = 0; i < p; i++){
         for(j = 0; j < q; j++){
-            printf("%3.0f", B[i][j]);
+            printf(" %3.0f ", B[i][j]);
         }
         printf("\n");
     }
@@ -58,7 +58,7 @@ int main(){
     printf("\n This is matrix C:\n\n");
     for(i = 0; i < n; i++){
         for(j = 0; j < q; j++){
-            printf("%3.0f", C[i][j]);
+            printf(" %3.0f ", C[i][j]);
         }
         printf("\n");
     }
