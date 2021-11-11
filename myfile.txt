@@ -1,0 +1,8 @@
+NAME      : Raghul Ravikumar
+STUDENT ID: 21200173
+EMAIL ID  : raghul.ravikumar@ucdconnect.ie
+UNIVERSITY: University College Dublin
+COURSE    : MSc in Data and Computation Science
+GIT ID    : RaghulRavikumar
+
+"WHILE WE TEACH, WE LEARN"
