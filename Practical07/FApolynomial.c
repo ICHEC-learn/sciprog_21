@@ -35,7 +35,6 @@
       return sum;
    }
 
-
    // Main function
 
    int main() {

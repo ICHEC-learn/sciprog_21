@@ -15,6 +15,7 @@ int* allocatearray(int n) {
 // Separate function to fill every cell of an array with ones
 // The function is void becuse we don't need a return type
 
+
 void fillwithones(int* array, int n) {
    int i;
    for(i=0; i<n; i++) {
@@ -40,7 +41,7 @@ void freearray(int* array) {
 }
 
 // Main function
-//
+
 int main() {
 
    int n;
@@ -60,4 +61,3 @@ int main() {
 
    return 0;
 }
-
