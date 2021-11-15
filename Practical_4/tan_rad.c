@@ -4,7 +4,7 @@
 /*define variables and function to return radian*/
 float tan_rad(float Deg);
 int N = 12, i;
-/*test*/
+
 /*create function that returns radians when given degrees*/
 float tan_rad(float Deg){
         return((M_PI*Deg)/180);
