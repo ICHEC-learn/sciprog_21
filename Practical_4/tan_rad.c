@@ -18,7 +18,7 @@ int main(){
                 deg = i*5.0;
                 rad = tan_rad(deg);
                 Tan_arr[i] = tan(rad);
-                printf("Tan_arr[%d]=%f", Tan_arr[i]);
+                printf("Tan_arr[%d]=%f\n", Tan_arr[i]);
 /*for loop above takes degree in step size of 5 and calls the tan_rad function*/
 /*the outputs of the function are saved in the Tan_arr array*/
 }
