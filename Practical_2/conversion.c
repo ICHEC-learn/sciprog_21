@@ -2,6 +2,7 @@
 #include <math.h>
 
    int main(void){
+   /*declaring variables*/
    int i,inum,tmp,numdigits;
    float fnum;
    char binnum[60];
@@ -18,7 +19,7 @@
 
 /* Terminate the string */
    binnum[i] = '\0';
-
+/*print statements for results*/
    numdigits = ceil(logf(fnum)/logf(2));
    printf("The number of digits is %d\n",numdigits);
 
