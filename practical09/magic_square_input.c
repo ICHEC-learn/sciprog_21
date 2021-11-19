@@ -33,6 +33,14 @@ int main(void){
         }
     }
 
+    /** printing the matrix obtained from txt file **/
+    for(i=0; i<n; i++){
+        for(j=0; j<n; j++){
+            printf("%d ", magic_square[i][j]);
+        }
+        printf("\n");
+    }
+
     /** checking whether the sqaure matrix is magic or not **/
     printf("The square %s magic\n", isMagicSquare(magic_square,n)? "is": "is NOT");
 
@@ -63,5 +71,5 @@ int getlines(char file[MAX_FILE_NAME]){
     }
     printf("count of number of lines in file %d\n", c);
     fclose(fp);
-    return c;
+    return c+1;
 }
