@@ -19,10 +19,11 @@ int main(void) {
    for (i=1000; i>0; i--) {
       sum2 = sum2 + 1.0/i;
    }
-
+/*print statement for two sums*/
    printf(" Sum1=%f\n",sum1);
    printf(" Sum2=%f\n",sum2);
-
+   
+/*find the difference and print*/
    diff = sum2 - sum1;
 
    printf(" Difference between the two is %f\n",diff);
