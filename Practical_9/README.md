@@ -1,0 +1,1 @@
+This practical has two parts the first script main.c, takes a user inputted matrix and tests if its magic. The second script magic.c reads in a file with matrix and determines if the matrix is magic. Complie and run using the following two commands with the correct file name gcc script_name.c -o output_file_name -lm, then run ./output_file_name
