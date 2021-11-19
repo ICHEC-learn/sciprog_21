@@ -1,0 +1,1 @@
+This folder just contains the two scripts that were given to us in week two. Both scripts can be run using the following two commands, where the name of the file is inserted, gcc script_name.c -o output_file_name -lm, then run ./output_file_name
