@@ -1,0 +1,1 @@
+The (.c) file tan_rad contains the code for practical4 to run compile using complier ie. gcc, run the following line gcc tan_rad.c -o tan_rad -lm. Then run using the following command ./tan_rad. The code will output each value that was calculate for tan(x) and saved to the array, it will also print the area under the curve using the trapezodial rule for the third lab

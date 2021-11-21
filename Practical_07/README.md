@@ -1,0 +1,1 @@
+The script polynomial when runned computes polynomials and the value for e, the memory.c script allocates memory, fills array with ones and then frees the memory. Both scripts can be run using the following two commands, where the name of the file is inserted, gcc script_name.c -o output_file_name -lm, then run ./output_file_name

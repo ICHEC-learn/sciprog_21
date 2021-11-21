@@ -1,0 +1,1 @@
+The (.c) file intergration contains the code for practical3 to run compile using complier ie. gcc, run the following line gcc intergration.c  -o intergration -lm. Then run using the following command ./integration. The code will output two values for the area, the first calculated by summation, the second more accurate value calculated using log(2).
