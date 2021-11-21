@@ -6,7 +6,7 @@
 /*
 Rod 1 = A
 Rod 2 = B
-Rod 2 = C
+Rod 3 = C
 
 n disks = 2
 
