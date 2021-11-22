@@ -38,6 +38,7 @@ int main(){
                 printf("Diff between tan1[%.3lf] and tan2[%.3lf] is %.10lf\n", i, i, fabs(tan1[j] - tan2[j]));
                 j++;
         }
+}
 /*create function that calculates the hyperbolic tangent using formula given in practical*/
 double arctanh1(const double x, const double delta){
         double arcTan = 0;
