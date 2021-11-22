@@ -27,5 +27,4 @@
       inum,fnum,binnum);
 
 }
-                                                              29,1          Bot
-
+                                                             
