@@ -1,1 +1,2 @@
-This folder just contains the two scripts that were given to us in week two. Both scripts can be run using the following two commands, where the name of the file is inserted, gcc script_name.c -o output_file_name -lm, then run ./output_file_name
+This folder just contains the two scripts that were given to us in week two. Both scripts can be run using the following two commands,
+gcc conversion.c -o conversion -lm, then run ./conversion . For the second script run the following commands, gcc sum.c -o sum -lm, then run ./sum .
