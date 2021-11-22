@@ -1,43 +1,73 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "magic_square.h"
+#define  MAX_FILE_NAME 100
 
-int main() {
+/*include fill with name string up to 100*/
 
-        /*take input from user for number of sides*/
-        int n;
-        printf("Enter the square side:\n");
-        scanf("%d", &n);
+/*declare function*/
+int getlines(char filename[MAX_FILE_NAME]);
+int main(){
 
-        /*allocate memory for array*/
+        /*hand the file using pointer f*/
+        /*scanf in file name from user*/
+        FILE *f;
+        char filename[MAX_FILE_NAME];
+        printf("Enter file name:");
+        scanf("%s", filename);
+
+        /*open file*/
+        f = fopen(filename, "r");
+        /*set n as getlines function called for file*/
+        int n = getlines(filename);
+
         int i;
-        int ** magicSquare = malloc(n * sizeof(int));
+        /*take matrix, allocate memory needed fro matrix*/
+        int ** magicSquare = malloc(n * sizeof(int*));
 
-
-        for(i = 0; i < n; i++) {
-                magicSquare[i] = malloc(n * sizeof(int));
+        for(i=0; i<n; i++){
+                magicSquare[i] = malloc(n*sizeof(int));
         }
-
         int j;
 
-        /*take user input for elements in array for each row*/
-	for(i = 0; i < n; i++) {
-                printf("Enter the elements in row #%d, separated by blanks and/or linebreaks:\n", i+1);
-        for(j = 0; j < n; j++) {
-                scanf("%d", &magicSquare[i][j]);
+        /*scan in the matrix*/
+        for(i=0; i<n; i++){
+                for(j=0; j<n; j++){
+                        fscanf(f, "%d", &magicSquare[i][j]);
+                }
         }
-
-}
-
-        /*call function to see if square is madic*/
-        printf("The square %s magic.\n", isMagicSquare(magicSquare, n) ? "is" : "is NOT");
+        /*print out results of magicSquare*/
+        printf("The square %s magic.\n", isMagicSquare(magicSquare, n)? "is" : "is NOT");
 
         /*free memory no longer needed*/
-        for(i = 0; i < n; i++) {
+        for(i=0; i<n; i++){
                 free(magicSquare[i]);
-         }
+        }
         free(magicSquare);
-
+	
+	/*close file*/
+        fclose(f);
         return 0;
 }
 
+/*create getlines function*/
+int getlines(char filename[MAX_FILE_NAME]){
+        FILE *fp;
+        fp = fopen(filename, "r");
+        int ch_read;
+        int count = 0;
+        /*get next character from fp*/
+        while((ch_read = fgetc(fp)) != EOF){
+                /*when new line is encountered increment count*/
+                if(ch_read == '\n'){
+                        count++;
+                }
+        }
+        /*print count which is number of lines*/
+        printf("Number if lines:%d\n", count);
+        fclose(fp);
+        return count;
+}
+              
+
+                                                                                                                                                           1,8           Top
