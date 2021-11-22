@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*declaring teo functions to calulcate GCD, one iterative the other recursive*/
+/*declaring two functions to calulcate GCD, one iterative the other recursive*/
 int iterativeGCD(int a, int b);
 int recursiveGCD(int a, int b);
 
@@ -23,7 +23,7 @@ int main(void){
         printf("Iterative gcd(%d, %d) = %d\n", a, b, iterativeGCD(a,b));
         return 0;
 }
-/*iterative function using while look yo look remainer*/
+/*iterative function using while loop to find remainer*/
 int iterativeGCD(int a, int b){
         int temp;
         while(b != 0){
