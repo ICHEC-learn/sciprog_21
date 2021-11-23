@@ -1,0 +1,447 @@
+On branch Aoife_Brennan_Blackboard
+Your branch is up to date with 'origin/Aoife_Brennan_Blackboard'.
+
+nothing to commit, working tree clean
+
+commit cf20fbcd96871c47d35061a709aa7643dcf53645 (HEAD -> Aoife_Brennan_Blackboard, origin/Aoife_Brennan_Blackboard)
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 18:06:06 2021 +0000
+
+    fixing small type error
+
+commit d742feb37e5d9040ef271164a5efec3ace228c0c
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 18:03:06 2021 +0000
+
+    Create magic_square.h
+
+commit a39a1ddb5bc0b5932502d4250da68f6c7e557379
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 18:01:16 2021 +0000
+
+    Update README.md
+
+commit df80dfe1e90ed2e3e4e0c33e02812b20a514def5
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 17:59:15 2021 +0000
+
+    Update README.md
+
+commit ef8facaf8b014732fd1e93a354668062908f5741
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 17:51:16 2021 +0000
+
+    Create mm.c
+
+commit 8eedffbfebc051317fd081b8254029c0a509742e
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 17:50:52 2021 +0000
+
+    Create main.c
+
+commit 009bd9ec5db3e1ae344b9d9046543f63146a8575
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 17:49:47 2021 +0000
+
+    Create Makefile
+
+commit 0bf92ca05d66a6bac3b9db77ce7a8875adc7517e
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 17:48:49 2021 +0000
+
+    update index of for loops
+
+commit 2136711b84f0d3052f9189211e44f46fa1860657
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 17:37:39 2021 +0000
+
+    adding one curly bracket
+
+commit ea7c358ac3d2bd79c745a0b44fac2cae21356f58
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 17:28:30 2021 +0000
+
+    Update README.md
+
+commit 45bf1f0883386fc51f21727463724140d34e0c0c
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 17:19:21 2021 +0000
+
+    missing curly bracket at end
+
+commit 0dd45b47a5c5d35b60a4f147e5f78d4e22bbf71a
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 17:08:51 2021 +0000
+
+    Update README.md
+
+commit c0d2459b71fe3dc874639f6f6f21e359232530df
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 14:05:03 2021 +0000
+
+    fixing small typing errors in comments
+
+commit 64845dfa399e5251a3250b75cfb2b85c6fb73d33
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 22 14:00:23 2021 +0000
+
+    two small typing errors removed
+
+commit c144c9aaf5e375970c429e080033a6dfab1f1b1b
+Merge: acc1402 5720fcf
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Mon Nov 22 13:53:44 2021 +0000
+
+    Merge branch 'Aoife_Brennan_Blackboard' of https://github.com/Aoife573/sciprog_21 into Aoife_Brennan_Blackboard
+    having problems pushing going to try pull any changes down first
+
+commit acc140239cc64fc36e82eb4904c8205fd3ef6bef
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Mon Nov 22 13:53:22 2021 +0000
+
+    adding practical 5 files which where deleted in last merge
+
+commit 5720fcfd259ce9b5ffb4da2165115a841e27cbf8
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Sat Nov 20 13:28:56 2021 +0000
+
+    Delete gitlog
+
+commit 11eec0f6054c7f6429245e9ef6e1f4c2432d70ad
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Sat Nov 20 13:25:53 2021 +0000
+
+    Rename intergration to intergration.c
+
+commit 624abc098f02a1008e10d4b80569ac1b865f08a7
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Fri Nov 19 21:02:28 2021 +0000
+
+    rename folders so they appear in correct order
+
+commit 9242eec01b06fafc4e8c762f771d2efca7163e2e
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Fri Nov 19 20:51:33 2021 +0000
+
+    deleteing some .git folders that have appear in incorrect place since last merge
+
+commit 772653f66482f7afe347ce62cb72e400be689bf2
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Fri Nov 19 20:39:26 2021 +0000
+
+    adding script with README.md for practical 10
+
+commit bf2b83afd8551b1bb9b8474ecc00fc8016d86bdd
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Fri Nov 19 20:08:11 2021 +0000
+
+    adding two files with README.md for practical 9
+
+commit c3191e9aa394d19b0145a2fa8d4521bf58e35285
+Merge: f7879b7 33936cd
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Fri Nov 19 19:33:34 2021 +0000
+
+    merging and git pull as github branch is ahead of local
+
+commit 33936cdb477c647c9b71f7a14c4d150676744c34
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 16:02:20 2021 +0000
+
+    Create README.md
+
+commit 49e15d8ae76a4ec9cb4f93c5b57d5be201bed41e
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 15:59:45 2021 +0000
+
+    fixing small type error
+
+commit 80adf4be16bfac09e008d54d95ad1501d86db303
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 15:59:01 2021 +0000
+
+    fix variable names and add comments
+
+commit 23be427e143257405a86d416fae570a6c7edbb45
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 15:57:37 2021 +0000
+
+    Create memory.c
+
+commit 880ca5e17e0eb5a4803cb4a87e1ae31d81b92523
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 13:58:16 2021 +0000
+
+    Create README.md
+
+commit d4241784e0679d96e435b4becb419dc8bfd3e66d
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 13:55:48 2021 +0000
+
+    Update conversion.c
+
+commit f6ccfd33174543e7799edc4dffe1f34566f71032
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 13:54:34 2021 +0000
+
+    adding a few more comments to sum.c
+
+commit 6e6087674e5cd79d499c4c3845b2776f6d265b22
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 13:53:31 2021 +0000
+
+    Create README.md
+
+commit 422d870923554115ed2e7dd2759def3f1d840ff0
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 13:50:58 2021 +0000
+
+    adding comments, fixing print statement and undefined reference in GCD.c
+
+commit 8495fd831be3047161b98f2aba9c487515cb14fb
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 12:55:40 2021 +0000
+
+    adding comments to hyperbolic.c
+
+commit 3102270e9c88aefc20b1234079e318959d45c6ac
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 12:38:41 2021 +0000
+
+    adding comments to fibonacci.c
+
+commit f8b8572b3091e2180b5c7fe3169f0704cde1c6af
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 19 12:25:20 2021 +0000
+
+    Create README.md
+
+commit 0d52f12390d1ba1059767e5e89bb47706050d8c4
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Wed Nov 17 15:22:38 2021 +0000
+
+    Rename fib.c to fibonacci.c
+
+commit c025f6efe1e576d750e76e9445b4168b7cb39223
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Wed Nov 17 15:22:11 2021 +0000
+
+    Create hyperbolic.c
+
+commit f7879b7f7e435ea211a218f3de1b6662e2b96073
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Wed Nov 17 11:22:46 2021 +0000
+
+    adding second part of practical five
+
+commit bbbbfd42918f5d9ae05d054e0a3eed8a89b56442
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 15 19:28:10 2021 +0000
+
+    adding comments
+
+commit befbceb1c6612343036f9f5666b1a5942dd6d09c
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 15 19:24:39 2021 +0000
+
+    Create README.md
+
+commit ad4513663e2a8aa2196b7afbfda9b042ce27ec0e
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 15 17:13:09 2021 +0000
+
+    Create README.md
+
+commit 08e8ec0a82d3d70dc74b2c4c18c244fe92510d04
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 15 17:10:17 2021 +0000
+
+    adjusting print statement
+
+commit ad76a62e5f403c30f9e499404871fa1ea604d7b7
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 15 17:05:50 2021 +0000
+
+    Remove one comment from file
+
+commit c821ccf9d6137cc3f5ed7c43e1bd1219f38b6d69
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 15 17:04:10 2021 +0000
+
+    Rename script_3 to intergration
+
+commit 6e65993506cc90a3ae13f274b7f988d726f535e9
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 15 17:03:45 2021 +0000
+
+    Update and rename read.me to README.md
+
+commit e1d5314eb6ed4b8f24bdd10a23ee19e59b4e0590
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Mon Nov 15 16:57:46 2021 +0000
+
+    Create read.me
+
+commit 78bb6f8ff59dfaf2bd6a1df33aab3b99128e7170
+Merge: b0f89d5 65fb56d
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Fri Nov 12 16:31:52 2021 +0000
+
+    Merge branch 'Aoife_Brennan_Blackboard' of https://github.com/Aoife573/sciprog_21 into Aoife_Brennan_Blackboard
+    Trying to pull from my branch to local
+
+commit b0f89d5dd266c0fa921a3992a1fbfb865dbbf572
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Fri Nov 12 16:31:04 2021 +0000
+
+    trying to fix pratical 2
+
+commit 65fb56da4ca73bcf674a4074d6b649ebc2efa41d
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Nov 12 16:25:51 2021 +0000
+
+    Delete test.c
+
+commit 4f7370ee27f5167690561fdcf01077c17714b452
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Fri Nov 12 16:25:25 2021 +0000
+
+    testing
+
+commit f007326431de3590676def2dc8e89dc42620c1e1
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Thu Nov 11 16:53:22 2021 +0000
+
+    adding file for practical 8
+
+commit 9a4bfd0a9198543586b713343253631120f3f938
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Sat Nov 6 19:52:33 2021 +0000
+
+    create folder for Practical3
+
+commit 1c1e3f094b396d520f12117e90c30d0ba7e5b827
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Sat Nov 6 19:49:36 2021 +0000
+
+    tryinh to fix files for practical 2
+
+commit a0e5124ab63ca52bf2b8ad30921e43c4f6655087
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Sat Nov 6 19:47:44 2021 +0000
+
+    Delete polynomial.c
+
+commit 613eef2220c25017633c0db5e47c853cab825de2
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Sat Nov 6 19:45:32 2021 +0000
+
+    first try at pratical 7
+
+commit 8fc61196befc681209e80e936d893726b253d307
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Thu Nov 4 17:50:33 2021 +0000
+
+    adding first part of practical 5
+
+commit f00fbd00cee23cda5baa31bdb975803d4bd297fe
+Merge: 1efe6a3 904511a
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Thu Nov 4 17:33:18 2021 +0000
+
+    Merge branch 'Aoife_Brennan_Blackboard' of https://github.com/Aoife573/sciprog_21 into Aoife_Brennan_Blackboard
+
+commit 1efe6a3b9e7afcba57db36f585967d61b0249eee
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Thu Nov 4 17:04:07 2021 +0000
+
+    adding practical 6 matrix program
+
+commit 904511a2609ac6182ec17fc6e197c18c85b49afe
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Wed Oct 27 22:58:06 2021 +0100
+
+    Delete assignment1.c
+
+commit ccd110cca2949d4bca0c6a70558b8aa54be77ec1
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Wed Oct 27 22:57:54 2021 +0100
+
+    Delete assignment1.2.c
+
+commit 98b7f91a6f34d65d45654dcb368294b6006d6cd7
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Wed Oct 27 22:50:52 2021 +0100
+
+    adding first attempt at question 2 in assignment 1
+
+commit cca891dd2d30c18f359a69263be0a3178be8fd6d
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Wed Oct 27 17:56:31 2021 +0100
+
+    adding assignment1 for part (b), (c), (d)
+
+commit 502c332309d7cc2fe47ee2684b7ab6126ed402c9
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Wed Oct 27 10:39:41 2021 +0100
+
+    adding assignment1 for part (a)
+
+commit ccd7d2e4ec287bbe12177152c355f9857bb6b019
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Oct 22 12:04:12 2021 +0100
+
+    Delete sum.c
+    
+    Delete old file and moving into file practical2
+
+commit 298ba7a32a4c7e132314c24456bb5b02d3ed5d26
+Author: Aoife573 <51859634+Aoife573@users.noreply.github.com>
+Date:   Fri Oct 22 12:03:59 2021 +0100
+
+    Delete conversion.c
+    
+    Delete old file and moving into file practical2
+
+commit 3f7d7134a137fa742dd6eb261f5bac5244673d99
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Fri Oct 22 12:02:30 2021 +0100
+
+    trying to sort of files for practical2
+
+commit ecb27b6ee487f47671b2ed0ba1216af4e8187b66
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Fri Oct 22 11:47:22 2021 +0100
+
+    adding practical 4 including the file tan_rad.c
+
+commit 956ded9e8a77d250829274725766a926687ca714
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Mon Oct 18 10:05:44 2021 +0100
+
+    adding practical 3 incuding script for intergration
+
+commit a463d615a8b61ce01f40c215cde3968721fb997f
+Author: Aoife Brennan <aoifebrennan@Aoifes-Mac-mini.local>
+Date:   Sat Oct 16 15:34:11 2021 +0100
+
+    Added Practical two files
+
+commit bba58bbcf7731617d0b60fa57fc48a1c054e2f08 (origin/main, origin/HEAD, main)
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Tue Sep 28 08:58:29 2021 +0100
+
+    Updated formatting errors
+
+commit 4a18ed3e12f84ae309605d2f7862ec60750dedaa
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Tue Sep 28 08:57:59 2021 +0100
+
+    Filled README.md with full instructions
+
+commit 312a9b3083fa3e5de0bb35276d886acf9d385dfb
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Mon Sep 27 11:59:24 2021 +0100
+
+    Initial commit
+
